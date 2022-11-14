@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#image{
+    background-image: url(/Photo/slide-1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 250px 0;
+    margin-top: 5rem;
+}
+.text-all{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+
+.text{
+    background-color: orange;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.text2{
+    color: rgb(0,30,43);
+    font-weight: 700;
+    font-size: 3rem;
+    width: 60%;
+    margin-top: 1rem;
+}
+
+.text3{
+    width: 64%;
+    font-size: 1.09375rem;
+    font-weight: 500;
+    color: rgb(107,121,128);
+}
+
+.link{
+    text-decoration: none;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.basliq{
+    margin-top: 4rem;
+    font-size: 1.53125rem;
+    color: #001e2b;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+#photo{
+    background-image: url(/Photo/pamidor1png.png);
+    padding: 70px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
